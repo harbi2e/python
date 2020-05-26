@@ -17,3 +17,6 @@ firstname = 'Eyad'
 lastname = 'Almohammadi'
 full_name = 'Eyad Almohammadi'
 print (full_name.replace('Almohammadi','Mohammed'))
+
+
+
